@@ -8,3 +8,4 @@
 * [70](70.md). Climbing Stairs ( 爬樓梯 ) ✰✰✰
 * [20](20.md). Valid Parentheses ( 有效的括號 )
 * [383](383.md). Ransom Note ( 贖金信 )
+* [876](876.md). Middle of The Linked List ( 鏈表的中間結點 )
