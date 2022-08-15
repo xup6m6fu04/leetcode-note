@@ -11,3 +11,4 @@
 * [876](876.md). Middle of The Linked List ( 鏈表的中間結點 ) ✰ 快慢指針
 * [283](283.md). Move Zeroes ( 移動零 ) ✰ 雙指針
 * [27](27.md). Remove Element ( 移除元素 ) ✰ 雙指針、雙指針優化
+* [26](26.md). Remove Duplicates from Sorted Array ( 刪除有序數組中的重覆項 ) ✰ 雙指針、快慢指針
