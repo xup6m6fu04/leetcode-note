@@ -10,3 +10,4 @@
 * [383](383.md). Ransom Note ( 贖金信 )
 * [876](876.md). Middle of The Linked List ( 鏈表的中間結點 ) ✰ 快慢指針
 * [283](283.md). Move Zeroes ( 移動零 ) ✰ 雙指針
+* [27](27.md). Remove Element ( 移除元素 ) ✰ 雙指針、雙指針優化
